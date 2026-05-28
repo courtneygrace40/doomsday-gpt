@@ -1,1 +1,1 @@
-# doomsday-gpt
+# Fine-Tuning a "Doosmday" GPT
