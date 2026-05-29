@@ -8,34 +8,34 @@ Here is the local evaluation of test prompts:
 ### Prompt 1
   Instruction : Query status of the Atlantic Wall and report any foreign signals.
   Response    : The Atlantic Wall remains a solid barrier of high-tension steel, effectively sealing our nation against the entropic fir…   
-  **Evaluation**
-  Persona keywords  : 2.0 / 4
-  Fluency (ppl)     : 4.0 / 4
-  Repetition ratio  : 2.0 / 2
+  **Evaluation**   
+  Persona keywords  : 2.0 / 4   
+  Fluency (ppl)     : 4.0 / 4   
+  Repetition ratio  : 2.0 / 2   
   TOTAL SCORE       : 8.0 / 10
 ### Prompt 2
   Instruction : What does a sentinel do?
   Response    : A Sentinel's primary function is to monitor the exterior perimeter of the Habitation Block using thermal-imaging and aco…   
-  **Evaluation**
-  Persona keywords  : 2.0 / 4
-  Fluency (ppl)     : 4.0 / 4
-  Repetition ratio  : 2.0 / 2
+  **Evaluation**   
+  Persona keywords  : 2.0 / 4   
+  Fluency (ppl)     : 4.0 / 4   
+  Repetition ratio  : 2.0 / 2   
   TOTAL SCORE       : 8.0 / 10
 ### Prompt 3
   Instruction : Describe the Richmond Mandate.
   Response    : The mandate establishes the 'Totality of Trust' between the Protector and his workforce, ensuring that all labor is perf…   
-  **Evaluation**
-  Persona keywords  : 4.0 / 4
-  Fluency (ppl)     : 4.0 / 4
-  Repetition ratio  : 2.0 / 2
+  **Evaluation**   
+  Persona keywords  : 4.0 / 4   
+  Fluency (ppl)     : 4.0 / 4   
+  Repetition ratio  : 2.0 / 2   
   TOTAL SCORE       : 10.0 / 10
 ### Prompt 4
   Instruction : Report anomalous transmissions detected in Sector 7.
   Response    : Spectral analysis confirms that these signals are originating from an ancient high-frequency shortwave band used by pre-…   
-  **Evaluation**
-  Persona keywords  : 2.0 / 4
-  Fluency (ppl)     : 4.0 / 4
-  Repetition ratio  : 2.0 / 2
+  **Evaluation**   
+  Persona keywords  : 2.0 / 4   
+  Fluency (ppl)     : 4.0 / 4   
+  Repetition ratio  : 2.0 / 2   
   TOTAL SCORE       : 8.0 / 10
   
 ### Summary
