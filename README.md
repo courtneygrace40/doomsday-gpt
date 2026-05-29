@@ -4,6 +4,8 @@
 
 This is the state of the world that the GPT model I fine-tuned exists in. With the help of Gemini and Claude, the Jupyter Notebook in this repository includes a fine-tuned LLM based on the world I created. A variety of different pieces of information were created, also using Gemini, to train this model. In order to give the model personality and a grounding in the world created, prompt/answer pairs were used for training and along with mock pieces of legislation, radio tranmissions, newspapers, and historical documents.  
 
+The ["Richmond"](/Richmond) folder contains all of the files used to train this model. 
+
 Here is the local evaluation of test prompts: 
 ### Prompt 1
 * **Instruction:** Query status of the Atlantic Wall and report any foreign signals.
